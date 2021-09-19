@@ -32,5 +32,6 @@ In client directory
 
 ``` npm start ```
 
-## Happy Haacking!!!
+
+### Happy Hacking!!!
 
